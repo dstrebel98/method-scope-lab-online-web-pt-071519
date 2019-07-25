@@ -1,3 +1,3 @@
 def catch_phrase(phrase)
-  puts phrase {I
+      puts phrase {"It's-a me, Mario!}
 end
